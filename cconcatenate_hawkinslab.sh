@@ -43,4 +43,9 @@ conda activate
 fastqc *_R1.fastq.gz
 fastqc *_R2.fastq.gz
 
-multiqc *.zip 
+multiqc *.zip  ## visualize *.fastq
+
+multiqc $dir/Stats/Stats.json ## visualize the seq run quality 
+
+mkdir QC
+mv *.html *.zip $dir/QC
