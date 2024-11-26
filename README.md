@@ -1,7 +1,7 @@
 # ${{\color{Black}\Huge{\textsf{Routine Codes and Pipelines}}}}\$   <br />
  ${{\color{Black}\normalsize{\textsf{Epigenetics, 3D Genome, and Functional Annotation}}}}\$   <br />
  
-# Compilation of codes and pipelines used routinely in the lab <br />
+### Compilation of codes and pipelines used routinely in the lab <br />
 
 # ${{\color{Green}\Huge{\textsf{Overview}}}}\$   <br />
 This repository is a curated collection of computational scripts and pipelines regularly utilized in the Hawkins Lab for genome-wide studies. It provides essential tools for analyzing histone modifications, DNA methylation, 3D genome organization, and the annotation of coding and non-coding RNAs, reflecting the lab's commitment to advancing gene regulation and functional genomics research.  <br />
