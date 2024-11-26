@@ -10,7 +10,7 @@ This repository is a curated collection of computational scripts and pipelines r
 - Characterization of gene regulatory landscapes in various cellular contexts. <br />
 - 3D genome structure analysis for insights into chromatin organization and its role in gene expression. <br />
 
-:large_orange_diamond: **Contents**:  <br />
+# :large_orange_diamond: **Contents**:  <br />
 
 * bcl2fastq demultiplexing NGS libraries (convert  *.bcl to *.fastq files)  <br />
 :link: https://github.com/hawkinslab226/Routine_pipelines/blob/main/demultiplex_libraries_hawkinslab.sh 
@@ -20,7 +20,7 @@ This repository is a curated collection of computational scripts and pipelines r
  
  -  **$${\color{purple}T01-muscle-01-ATAC240101}$$**  <br />
 
- * #### Normalization raw counts  <br />
+ * #### Normalization raw counts  <br /> 
 
 
 
