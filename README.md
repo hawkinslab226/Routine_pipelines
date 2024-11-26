@@ -20,7 +20,7 @@ This repository is a curated collection of computational scripts and pipelines r
  
  -  **$${\color{purple}T01-muscle-01-ATAC240101}$$**  <br />
 
- * #### Normalization raw counts  <br /> 
-
+ #### Normalization raw counts  <br /> 
+:link: https://github.com/hawkinslab226/Routine_pipelines/blob/main/RPKM_norm.R
 
 
