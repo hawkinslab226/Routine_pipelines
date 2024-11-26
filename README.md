@@ -11,7 +11,7 @@ Compilation of codes and pipelines used routinely in the lab. <br />
  
  -  **$${\color{purple}T01-muscle-01-ATAC240101}$$**  <br />
 
- * Normalization raw counts  <br />
+ * #### Normalization raw counts  <br />
 
 
 
